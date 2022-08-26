@@ -7,7 +7,7 @@ namespace Blog
     public class Program
     {
 
-        private const string connectionString = "Server=localhost,1433;Database=Blog;User ID=sa;Password=s7s8s9s10";
+        private const string connectionString = "Server=localhost,1433;Database=Blog;User ID=sa;Password=";
 
         public static void Main(string[] args)
         {
